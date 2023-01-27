@@ -1,0 +1,44 @@
+{
+   "cart1": {
+      "mame": "Белая куртка",
+      "price": 2900,
+      "size": [
+         "XXS",
+         "XS",
+         "S",
+         "M",
+         "L"
+      ],
+      "color": [
+         "white",
+         "blue",
+         "bee"
+      ]
+   },
+   "cart2": {
+      "mame": "Синее пальто",
+      "price": 3100,
+      "size": [
+         "XS",
+         "M",
+         "L"
+      ],
+      "color": [
+         "white",
+         "blue",
+         "bee"
+      ]
+   },
+   "cart3": {
+      "mame": "Бежевая шуба",
+      "price": 4200,
+      "size": [
+         "XXS",
+         "M",
+         "L"
+      ],
+      "color": [
+         "white"
+      ]
+   }
+}
