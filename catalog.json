@@ -13,7 +13,8 @@
          "white",
          "blue",
          "bee"
-      ]
+      ],
+      "image": "slider-1.png"
    },
    "cart2": {
       "mame": "Синее пальто",
@@ -27,7 +28,8 @@
          "white",
          "blue",
          "bee"
-      ]
+      ],
+      "image": "slider-2.png"
    },
    "cart3": {
       "mame": "Бежевая шуба",
@@ -39,6 +41,7 @@
       ],
       "color": [
          "white"
-      ]
+      ],
+      "image": "slider-3.png"
    }
 }
