@@ -43,5 +43,62 @@
          "white"
       ],
       "image": "slider-3.png"
+   },
+   "cart4": {
+      "name": "Синяя куртка",
+      "price": 3600,
+      "size": [
+         "XXS",
+         "L"
+      ],
+      "color": [
+         "white",
+         "blue"
+      ],
+      "image": "slider-4.png"
+   },
+   "cart5": {
+      "name": "Белое пальто",
+      "price": 6470,
+      "size": [
+         "XS",
+         "S",
+         "M"
+      ],
+      "color": [
+         "white",
+         "blue",
+         "bee"
+      ],
+      "image": "slider-5.png"
+   },
+   "cart6": {
+      "name": "Белая куртка c капюшоном",
+      "price": 4940,
+      "size": [
+         "XXS",
+         "XS",
+         "M",
+         "L"
+      ],
+      "color": [
+         "white",
+         "blue",
+         "bee"
+      ],
+      "image": "slider-6.png"
+   },
+   "cart7": {
+      "name": "Белая шуба",
+      "price": 8900,
+      "size": [
+         "S",
+         "M",
+         "L"
+      ],
+      "color": [
+         "white"
+      ],
+      "image": "slider-7.png"
    }
 }
