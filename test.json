@@ -1,0 +1,11 @@
+{
+   "name": "Alex",
+   "age": 39,
+   "email": "gorejkoff@mail.ru",
+   "text": {
+      "name": "Маша",
+      "age": 42,
+      "addreыs_street": "Luckaja",
+      "address_home": "64A"
+   }
+}
