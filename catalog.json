@@ -17,7 +17,7 @@
       "image": "slider-1.png"
    },
    "cart2": {
-      "mame": "Синее пальто",
+      "name": "Синее пальто",
       "price": 3100,
       "size": [
          "XS",
